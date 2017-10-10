@@ -1,5 +1,5 @@
 
-/** 8QueenProblem
+/*  8QueenProblem
  *  8queen.cpp
  * 
  *  Problem: EightQueen Problem
@@ -24,7 +24,6 @@
  *		The ouput prints the position of queen in each column
  *
  */
-
 
 /*******************************************************************/
 #include <iostream>
@@ -84,6 +83,3 @@ int main(int argc, char const *argv[])
 	cout << "\n\n\n\n\nTotal Cases = " << total<< endl;
 	return 0;
 }
-
-
-
